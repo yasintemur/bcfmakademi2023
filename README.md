@@ -11,6 +11,6 @@ Bu case ile app.py dosyasını image haline getirip container oluşturarak web o
 ## CONTAİNER OLUŞTURMA
 Oluşturduğumuz Image'den container oluşturarak "{"msg":"BC4M"}" çıktısını elde edebiliriz.
 
---
+```
 docker container run --name test -p 80:5000 yasintemur/uygulama
---
+```
