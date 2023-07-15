@@ -1,4 +1,4 @@
-![image](https://github.com/yasintemur/bcfmakademi2023/assets/33574304/f7b9dd00-3591-4941-9363-cf3a56616143)# bcfmakademi2023
+# bcfmakademi2023
 #BCFM Akademi 2023 Case
 
 ##CASE AMACI VE İSTENİLEN
