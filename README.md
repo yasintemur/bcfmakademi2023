@@ -14,3 +14,9 @@ Oluşturduğumuz Image'den container oluşturarak "{"msg":"BC4M"}" çıktısın�
 ```
 docker container run --name test -p 80:5000 yasintemur/uygulama
 ```
+
+Image Docker HUB linki aşağıdadır.
+
+```
+https://hub.docker.com/repository/docker/yasintemur/uygulama/general
+```
